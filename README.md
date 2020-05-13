@@ -1,6 +1,6 @@
 
 # Mi Card
-![Sample](https://github.com/suryareddy3301/flutter_mi_card/blob/master/Screenshot_20200513_174617.jpg)
+![Sample](https://github.com/suryareddy3301/flutter_mi_card/blob/master/Screenshot_20200513_174617.jpg =100x20)
 
 This Project helps you in creating a visiting card app.
 
