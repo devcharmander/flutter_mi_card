@@ -1,6 +1,6 @@
 
 # Mi Card
-![Output](https://drive.google.com/file/d/1Nbx1IGZ0nNyHNr00_Vvb_494o8WsOH3z/view?usp=sharing)
+![Output](https://drive.google.com/uc?export=view&id=1Nbx1IGZ0nNyHNr00_Vvb_494o8WsOH3z)
 
 This Project helps you in creating a visiting card app.
 
